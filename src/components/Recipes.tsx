@@ -2,15 +2,15 @@ import React from 'react';
 import { Clock, Users, ChefHat } from 'lucide-react';
 
 const Recipes = () => {
-  const recipes = [
-    {
-      title: "Classic Fig Malt Drink",
-      description: "A traditional Tamil wellness drink perfect for any time of day",
-      time: "5 mins",
-      serves: "2",
-      image: "🥛",
-      ingredients: ["2 tbsp SARIRA Fig Malt", "1 cup warm milk", "Honey to taste"]
-    },
+ const recipes = [
+  {
+    title: "Classic Fig Malt Drink",
+    description: "A traditional Tamil wellness drink perfect for any time of day",
+    time: "5 mins",
+    serves: "2",
+    image: "/images/img1.jpg", // Replace with your actual file name
+    ingredients: ["2 tbsp SARIRA Fig Malt", "1 cup warm milk", "Honey to taste"]
+  },
     {
       title: "Fig Smoothie Bowl",
       description: "A nutritious breakfast bowl packed with natural goodness",
