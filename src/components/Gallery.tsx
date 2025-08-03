@@ -5,7 +5,7 @@ const Gallery = () => {
     {
       title: "Morning Ritual",
       description: "Start your day with SARIRA Fig Malt",
-      image: "🌅",
+      image: "/public/images/WhatsApp Image 2025-07-24 at 12.04.08_7bef17f0.jpg",
       category: "Lifestyle"
     },
     {
