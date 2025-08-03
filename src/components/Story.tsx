@@ -45,7 +45,7 @@ const Story = () => {
           {/* Image Placeholder */}
           <div className="relative order-1 lg:order-2 mb-8 lg:mb-0">
             <img 
-              src="/images/WhatsApp Image 2025-07-24 at 12.04.08_7bef17f0.jpg" 
+              src="/img1.jpg" 
               alt="SARIRA Fig Malt Product" 
               className="w-full max-w-md mx-auto lg:max-w-none aspect-square object-cover rounded-3xl shadow-2xl transition-transform duration-500 hover:scale-105"
             />
